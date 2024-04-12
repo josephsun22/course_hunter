@@ -24,3 +24,5 @@ MySQL: A relational database management system chosen for its reliability and ef
 Google Maps API: Integrated for location services, allowing users to search for courses based on geographic location.
 
 PayPal API: Integrated for secure payment processing, enabling users to enroll in premium courses seamlessly.
+
+The project was running on the UQ(The Uni of QLD) Cloud, however, the cloud is unavailabe now.
