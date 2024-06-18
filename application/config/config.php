@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://infs3202-6f6a6362.uqcloud.net/course_hunter/';
+$config['base_url'] = 'baseurl';
 
 /*
 |--------------------------------------------------------------------------
